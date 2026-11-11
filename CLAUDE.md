@@ -8,7 +8,7 @@ This repo is Clay's GitHub profile README plus a home for side projects. Each pr
 
 ## Agent skills
 
-Matt Pocock's skills (`mattpocock-skills` plugin) are enabled for this repo in `.claude/settings.json`.
+Matt Pocock's wayfinder skill and the skills it calls (grilling, domain-modeling, research, prototype) are copied into `.claude/skills/`. See `.claude/skills/README.md`.
 
 ### Issue tracker
 

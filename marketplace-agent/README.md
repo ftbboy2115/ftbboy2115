@@ -72,12 +72,12 @@ These are unverified first ideas for the wayfinder session to test, not decision
 
 ## Next step: run wayfinder
 
-Matt Pocock's skills plugin is enabled for this repo (`.claude/settings.json`), and its tracker is set to local markdown in `marketplace-agent/wayfinder/` (`docs/agents/issue-tracker.md`).
+Matt Pocock's wayfinder skill is copied into this repo (`.claude/skills/`), and its tracker is set to local markdown in `marketplace-agent/wayfinder/` (`docs/agents/issue-tracker.md`).
 
 Start a **new** session on this repo (skills load at session start) and type:
 
 ```
-/mattpocock-skills:wayfinder Turn my Facebook Marketplace listing agent into a paid service. Context is in marketplace-agent/README.md.
+/wayfinder Turn my Facebook Marketplace listing agent into a paid service. Context is in marketplace-agent/README.md.
 ```
 
 Charting the map takes one session and is a conversation: it asks you questions to name the destination (for example, "pick one model and a spec for a 30-day pilot"), then creates the first tickets.

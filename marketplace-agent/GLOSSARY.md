@@ -1,12 +1,12 @@
 # Marketplace agent
 
-Clay's AI listing agent, and the effort to turn it into a paid service that sells second-hand goods for other people.
+Clay's AI listing agent, and the effort to turn it into a paid service that helps other people sell their second-hand goods.
 
 ## Language
 
-**Client**:
-The person who pays Clay for the service.
-_Avoid_: Customer, seller, user
+**Seller**:
+The person who pays Clay for the service, owns the Item, and posts its Listing themselves.
+_Avoid_: Client, customer, user
 
 **Buyer**:
 The person who buys an Item from a Listing.

@@ -22,6 +22,8 @@ A ready-to-run **30-day pilot spec** for model B (a self-serve listing assistant
 
 <!-- one line per closed ticket: [title](link): gist -->
 
+- [What do similar listing tools offer, and what do they charge?](issues/03-competitors-and-prices.md): platforms now draft listings and suggest prices free; paid tools are $9–50/mo reseller subscriptions; nobody does recall checks, reply drafts with scam screening, or location-data removal, so sell the safety and judgment layer.
+
 ## Not yet specified
 
 - **Go/no-go details:** exactly what gets measured during the 30 days, how, and what happens on a "go" (the next 60 days).

@@ -24,13 +24,14 @@ A ready-to-run **30-day pilot spec** for model B (a self-serve listing assistant
 
 - [What do similar listing tools offer, and what do they charge?](issues/03-competitors-and-prices.md): platforms now draft listings and suggest prices free; paid tools are $9–50/mo reseller subscriptions; nobody does recall checks, reply drafts with scam screening, or location-data removal, so sell the safety and judgment layer.
 - [Which free tools can run the pilot's intake, payment and landing page?](issues/04-free-tools-for-the-pilot.md): $0 landing page on Netlify or Cloudflare (not GitHub Pages: commercial-use limit), email intake, and payment links with only per-payment fees (Venmo business about 29¢ on $10, Stripe about 59¢); those fees still need Clay's OK.
+- [What do Meta's rules allow for a self-serve listing assistant?](issues/01-meta-terms-for-self-serve.md): AI-written Listings and replies are fine; posting on a Seller's account, listing from Clay's profile, and automated Marketplace comps are not. Quotes still need checking.
+- [Can Clay's Claude plan power a paid service?](issues/02-claude-plan-for-paid-use.md): selling work Clay produces in his own chats is a grey area; the API is the clean route, about $0.50–1 per Item, and free inside Max's monthly API credit. Depends on which plan Clay has.
 
 ## Not yet specified
 
 - **Go/no-go details:** exactly what gets measured during the 30 days, how, and what happens on a "go" (the next 60 days).
 - **What the product becomes after the pilot:** a packaged Claude skill or project the Seller runs, a web app on Clay's domain, or something else. Depends on the pilot offer and on what Claude's terms allow.
 - **Legal and business basics:** whether a sole proprietorship is enough, whether sales tax applies to the service, and Clay's liability if a price or recall check is wrong.
-- **Better price comparisons:** eBay's Product Research shows sold prices free to sellers (per the competitor research), but whether the agent can use it for a Seller's Item is still open.
 - **The know-how side channel (model C):** whether to package the know-how as content alongside the pilot, and when.
 - **AI disclosure for Sellers:** what a Seller's Listing and replies should say about AI help, now that the posts are theirs, not Clay's.
 
